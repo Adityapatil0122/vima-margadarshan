@@ -30,10 +30,7 @@
             <pre><code>npm run dev</code></pre>
             <p>Open <strong>http://localhost:5173</strong> in your browser to view the app.</p>
         </li>
-        <li>
-            <strong>Build for production:</strong>
-            <pre><code>npm run build</code></pre>
-        </li>
+
         <li>
             <strong>Preview the production build:</strong>
             <pre><code>npm run preview</code></pre>
