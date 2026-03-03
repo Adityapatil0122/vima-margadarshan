@@ -5,6 +5,8 @@
     <div class="text-center">
         <h1>🛡️ Vima Margadarshan (विमा मार्गदर्शन)</h1>
         <p><strong>Marathi Insurance Information Portal</strong></p>
+      <p>https://vima-margadarshan-91f3.vercel.app/</p>
+      <p>https://insurancemajha.netlify.app/</p>
         <p>A modern, responsive web portal explaining health, term, and car insurance in simple Marathi. Built with React, Vite, TypeScript, and Tailwind CSS.</p>
         <p>
             <a href="#features">Features</a> • 
